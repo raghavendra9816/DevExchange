@@ -1,0 +1,20 @@
+npm (node package manager)
+1.first step =>npm init -y
+
+    package.json file bancha
+    yesla project ko related information rakcha
+    i.e project lai describe garcha
+
+    #higher order function
+    testo function jasle parameter assept garcha like map filter
+
+    test function jasko nan nai xaina vana anonymous function
+
+    callback function
+    jun function as argument auru function lai dinchau teslai call back function
+
+    regular function=> function sum(a,b){
+        return a+b
+    }
+
+    
